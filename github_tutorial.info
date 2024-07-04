@@ -1,0 +1,10 @@
+
+  1  login to your github account and click on your username and select settings
+  2  on the sidebar select "developper settings"
+  3  select on the shown screen "personal access tokens
+  4  on top right select "generate new token"
+  5  under "note" field give a name to the generated tokens
+  6  give an expiration to your token under "expiration" field
+  7  under "select scope" check "repo"
+  8  click "generate token"
+  9  copy the generated token and save it anywhere safely and use it on netbeans as password
